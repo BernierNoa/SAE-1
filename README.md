@@ -41,7 +41,7 @@ You need a C compiler (like `gcc`) installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ton-pseudo/student-grade-manager.git](https://github.com/ton-pseudo/student-grade-manager.git)
+    git clone [https://github.com/BernierNoa/student-grade-manager.git](https://github.com/BernierNoa/student-grade-manager.git)
     cd student-grade-manager
     ```
 
@@ -63,7 +63,7 @@ You need a C compiler (like `gcc`) installed on your machine.
 ## 👤 Author
 
 **Noa** - Student @ IUT Amiens
-* [My GitHub Profile](https://github.com/ton-pseudo)
+* [My GitHub Profile](https://github.com/BernierNoa)
 
 ---
 *Project created for the Bachelor University of Technology (BUT) in Computer Science - Semester 1.*
