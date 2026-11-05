@@ -41,8 +41,8 @@ You need a C compiler (like `gcc`) installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/BernierNoa/student-grade-manager.git](https://github.com/BernierNoa/student-grade-manager.git)
-    cd student-grade-manager
+    git clone https://github.com/BernierNoa/SAE-1.git
+    cd SAE-1
     ```
 
 2.  **Compile the source code:**
